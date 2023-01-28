@@ -7,10 +7,10 @@ image: assets/images/1.jpg
 <h1>Introduction: How to Win Friends and Influence People</h1>
 How to Win Friends and Influence People is a classic self-help book written by Dale Carnegie in 1936. It provides practical advice on how to improve one's social skills and build relationships with others.
 
-Summary:
+<h2>Summary How to Win Friends and Influence People</h2>
 The book covers topics such as how to make a good first impression, how to handle difficult people, and how to win others over to your point of view. It emphasizes the importance of understanding and connecting with other people in order to build relationships.
 
-Analysis:
+<b>Analysis</b>
 Carnegie's writing style is clear and easy to understand. The book is structured in a way that makes it easy to follow the author's advice. The advice provided is practical and effective, and many people have found it to be useful in both their personal and professional lives.
 
 Opinion:
