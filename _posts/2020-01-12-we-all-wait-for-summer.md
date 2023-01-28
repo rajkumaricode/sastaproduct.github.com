@@ -2,8 +2,7 @@
 layout: post
 title:  "Book Review: How to Win Friends and Influence People"
 categories: [ Book Review ]
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tech0ecb-21&language=en_IN&marketplace=amazon&region=IN&placement=B08JLM24Q8&asins=B08JLM24Q8&linkId=d56609e139a6cc4d801c44a5d36d835a&show_border=true&link_opens_in_new_window=true"></iframe>
----
+
 <h1>Introduction: How to Win Friends and Influence People</h1>
 How to Win Friends and Influence People is a classic self-help book written by Dale Carnegie in 1936. It provides practical advice on how to improve one's social skills and build relationships with others.
 
