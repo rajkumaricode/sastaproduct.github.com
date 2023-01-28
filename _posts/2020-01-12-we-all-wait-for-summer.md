@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: How to Win Friends and Influence People"
 categories: [ Book Review ]
-image: assets/images/1.jpg
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tech0ecb-21&language=en_IN&marketplace=amazon&region=IN&placement=B08JLM24Q8&asins=B08JLM24Q8&linkId=d56609e139a6cc4d801c44a5d36d835a&show_border=true&link_opens_in_new_window=true"></iframe>
 ---
 <h1>Introduction: How to Win Friends and Influence People</h1>
 How to Win Friends and Influence People is a classic self-help book written by Dale Carnegie in 1936. It provides practical advice on how to improve one's social skills and build relationships with others.
@@ -27,28 +27,3 @@ This book is suitable for anyone looking to improve their communication and inte
 
 Additional information:
 The book has been revised and updated several times since it was first published in 1936. It has been translated into many languages and continues to be popular today.
-
-by Dale Carnegie (Author)  Format: Kindle Edition
-4.5 out of 5 stars    87,088 ratings	
-Quality issues reported
- 
-See all formats and editions
-Kindle Edition
-₹0.00 
-This title and over 1 million more available with Kindle Unlimited
-₹9.00 to buy
- 
-Audible Logo Audiobook
-₹0.00
-Free with your Audible trial
- 
-Hardcover
-₹98.65 
-1 Used from ₹130.00
-6 New from ₹98.65
-Do you feel stuck in life, not knowing how to make it more successful?
-Do you wish to become more popular?
-Are you craving to earn more?
-Do you wish to expand your horizon, earn new clients and win people over with your ideas?
-How to Win Friends and Influence People is a well-researched and comprehensive guide that will help you through these everyday problems and make success look easier. You can learn to expand your social circle, polish your skill set, find ways to put forward your thoughts more clearly, and build mental strength to counter all hurdles that you may come across on the path to success.
-Having helped millions of readers from the world over achieve their goals, the clearly listed techniques and principles will be the answers to all your questions.
